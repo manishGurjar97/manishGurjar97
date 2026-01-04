@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ## Hi there 👋  
 I'm **Manish Gurjar**, a Full Stack Web Developer 🚀  
 
@@ -8,7 +5,7 @@ I'm **Manish Gurjar**, a Full Stack Web Developer 🚀
 - 🌱 I’m currently learning **Advanced React & Backend Development**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, MySQL**  
 - 📫 How to reach me: **manishgurjar26847@gmail.com**
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manish Gurjar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishgurjar26847@gmail.com) 
@@ -20,8 +17,6 @@ I'm **Manish Gurjar**, a Full Stack Web Developer 🚀
 ![](https://nirzak-streak-stats.vercel.app/?user=manishGurjar97&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manishGurjar97&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manishGurjar97&limit=5&theme=dark&combine_all_yearly_contributions=true)
